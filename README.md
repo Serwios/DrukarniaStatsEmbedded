@@ -1,5 +1,6 @@
 # DrukarniaStatsEmbedded
 Purpose of this project to monitor number of reads for specified profile on Drukarnia plarform.
+
 ![image](https://github.com/Serwios/DrukarniaStatsEsp32/assets/56473255/2d4255c2-2078-457b-bbed-fbba5192f059)
 
 
