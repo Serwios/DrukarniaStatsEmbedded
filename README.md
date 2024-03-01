@@ -11,4 +11,4 @@ Purpose of this project to monitor number of reads for specified profile on Druk
 # How to connect
 ![image](https://github.com/Serwios/DrukarniaStatsEmbedded/assets/56473255/fe14d91e-1ae7-46f2-86fb-4ec3369ebb29)
 
-Took from here: 
+Took from here: https://www.youtube.com/watch?v=G0an4VZYi18&t=44s
